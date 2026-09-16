@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Langanth's Homepage
 description: A collection of materials for courses with Anthony Langley @ Grand Valley State University
